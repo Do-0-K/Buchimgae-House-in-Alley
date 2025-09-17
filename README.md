@@ -1,7 +1,10 @@
 # Buchimgae-House-in-Alley / 골목 전집
 Platform - Windows (C++/Window API)
+
 장르 - 2D 타이쿤 게임
+
 개발 기간 - 2023.05.08 ~ 2023.06.11
+
 팀 인원 - 2명
 
 ## 프로젝트 개요

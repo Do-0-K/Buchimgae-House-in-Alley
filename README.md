@@ -17,6 +17,7 @@ Platform - Windows (C++/Window API)
 
 ## 실행 방법
 '실행 파일' 폴더 내의 exe 실행
+
 ※FMOD API가 설치되어 있어야 정상 실행됩니다.
 
 ## 팀 구성 및 역할

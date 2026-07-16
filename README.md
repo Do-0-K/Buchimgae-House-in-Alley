@@ -37,4 +37,4 @@ https://youtu.be/VEzDtZXc4lE?si=qch8d-qFMaMb06mN (게임 시연 및 설명 영�
 ## 개발자 이메일
 김경환 - kim1234312@gmail.com
 
-김도영 - rlaehdudqkqh@naver.com
+김도영 - rlaehdud1013@naver.com
